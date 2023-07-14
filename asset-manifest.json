@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Zedie-V2/static/css/main.073c9b0a.css",
-    "main.js": "/Zedie-V2/static/js/main.6debdb6a.js",
+    "main.css": "/Zedie-V2/static/css/main.a2ecc4e5.css",
+    "main.js": "/Zedie-V2/static/js/main.e385b0b6.js",
     "static/js/787.68857c30.chunk.js": "/Zedie-V2/static/js/787.68857c30.chunk.js",
     "static/media/logo.svg": "/Zedie-V2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Zedie-V2/index.html",
-    "main.073c9b0a.css.map": "/Zedie-V2/static/css/main.073c9b0a.css.map",
-    "main.6debdb6a.js.map": "/Zedie-V2/static/js/main.6debdb6a.js.map",
+    "main.a2ecc4e5.css.map": "/Zedie-V2/static/css/main.a2ecc4e5.css.map",
+    "main.e385b0b6.js.map": "/Zedie-V2/static/js/main.e385b0b6.js.map",
     "787.68857c30.chunk.js.map": "/Zedie-V2/static/js/787.68857c30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6debdb6a.js"
+    "static/css/main.a2ecc4e5.css",
+    "static/js/main.e385b0b6.js"
   ]
 }
